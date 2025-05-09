@@ -1,0 +1,1 @@
+Sitemap: https://akirak.github.io/flake-templates/sitemap-index.xml
